@@ -1,0 +1,8 @@
+See file:///Users/phurley/eclipse-workspace/Simple-Auton-Cpp/build/tmp/compileFrcUserProgramExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramExecutableFrcUserProgramCpp.
+compiling OI.cpp successful.
+
+compiling AutonomousCommand.cpp successful.
+
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramExecutableFrcUserProgramCpp, see full log file:///Users/phurley/eclipse-workspace/Simple-Auton-Cpp/build/tmp/compileFrcUserProgramExecutableFrcUserProgramCpp/output.txt.
